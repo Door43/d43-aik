@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aik:home|Door43 (aik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aik|d43-aik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aik/archive/master.zip|d43-aik.zip]]
+
+**Recent Changes**
+{{changes>ns = aik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aik|Ethnologue data]]
+
